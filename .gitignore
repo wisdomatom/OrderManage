@@ -1,0 +1,10 @@
+.idea/
+venv/
+env/
+__pycache__/
+*.pyc
+test.py
+*.log
+
+
+
